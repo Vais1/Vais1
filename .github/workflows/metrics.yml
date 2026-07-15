@@ -22,7 +22,7 @@ jobs:
           # Options
           user: Vais1
           template: classic
-          base: header, repositories
+          base: ""
           filename: github-metrics.svg
 
           # Most used languages
