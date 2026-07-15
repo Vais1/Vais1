@@ -7,3 +7,7 @@ I enjoy creating products with clean design, thoughtful user experiences, and si
 ---
 
 **Fun fact:** I spend way too much time polishing tiny UI details that most people will never notice.
+
+---
+
+![GitHub Metrics](github-metrics.svg)
